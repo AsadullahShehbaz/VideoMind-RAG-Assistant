@@ -416,7 +416,7 @@ with st.sidebar:
     st.markdown("""
     <div class="sidebar-brand">
         <span class="brand-logo">🎬</span>
-        <div class="brand-title">YouTube RAG</div>
+        <div class="brand-title">VideoMind-RAG-Assistant</div>
         <div class="brand-tagline">AI-Powered Video Assistant</div>
     </div>
     """, unsafe_allow_html=True)
